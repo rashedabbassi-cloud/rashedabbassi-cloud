@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rashed 👋</h1>
 
 <p align="center">
-  Dual-degree student at Penn — Statistics (Wharton) + Physics (CAS) — building things on the side.
+  Dual-degree student at Penn, studying Statistics (Wharton) and Physics (CAS). I build things on the side.
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@
 
 ### About me
 
-I'm interested in the intersection of **ML/AI, predictive analytics, and social impact** — especially projects that have real-world reach in the Middle East. Currently working on predictive analytics/ML during an internship, and building projects on the side that combine AI with real-world workflows.
+I'm interested in the intersection of **tech and social entrepreneurship**, with specific applications in physics, probabilistic models, and machine learning. I'm also drawn to philosophy and how it shapes the way I think about these fields. I'm currently working on predictive analytics and ML through an internship, and I build projects on the side that combine AI with real-world workflows, especially ones with reach in the Middle East.
 
 ### 🚀 What I'm building
 
-**[Forsa](#)** — A coaching marketplace connecting students in the Middle East with college and career coaches from similar backgrounds who've landed their dream schools and jobs. Built around a matching algorithm, with an internship placement program currently in the works.
+**[Forsa](https://github.com/rashedabbassi-cloud/yourforsa-2e5c426b)** is a coaching marketplace connecting students in the Middle East with college and career coaches from similar backgrounds who landed their dream schools and jobs. It's built around a matching algorithm, and we're working on an internship placement program next.
 
-**Navigator** — A social-impact project built at an Anthropic hackathon. Helps blind individuals manage their healthcare using an agentic AI workflow paired with ElevenLabs — it places phone calls summarizing emails and action items, and can carry out instructions on the user's behalf.
+**[Navigator](https://github.com/rashedabbassi-cloud/Navigator)** is a social impact project I built at an Anthropic hackathon. It helps blind individuals manage their healthcare using an agentic AI workflow paired with ElevenLabs, placing phone calls that summarize emails and action items and can carry out instructions on the user's behalf.
 
 ### 🛠️ Tech & interests
 
