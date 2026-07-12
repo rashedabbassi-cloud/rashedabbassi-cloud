@@ -31,7 +31,7 @@ I'm interested in the intersection of **tech and social entrepreneurship**, with
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,nodejs,git" />
 </p>
 
-`Machine Learning` · `Predictive Analytics` · `Agentic AI Workflows` · `Statistics`
+`Physics` · `Probabilistic Models` · `Machine Learning` · `Philosophy`
 
 ### 📫 Reach me
 
