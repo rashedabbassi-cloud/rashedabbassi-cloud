@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rashed 👋</h1>
 <p align="center">
-  Studying Statistics (Wharton) and Physics (CAS) at Penn. I mostly build things on the side.
+  Studying Statistics (Wharton) and Physics (CAS) at Penn. I build things on the side.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rashed-abbassi/">
@@ -15,11 +15,11 @@
 
 ### About
 
-I like physics, machine learning, philosophy, and generally anything deeply intellectual.
+I like physics, machine learning, philosophy, and generally anything deeply intellectual. I'm interested in tech entrepreneurship and want to contribute to the growing entrepreneurial ecosystem in the middle east.
 
 ### What I'm building
 
-**[Forsa](https://github.com/rashedabbassi-cloud/yourforsa-2e5c426b)** is a coaching marketplace connecting Middle East students with college/career coaches from similar backgrounds. Built around a matching algorithm, still growing it.
+**[Forsa](https://github.com/rashedabbassi-cloud/yourforsa-2e5c426b)** is a coaching marketplace connecting Middle East students with college/career coaches from similar backgrounds. Built around a matching algorithm, still growing.
 
 **[Navigator](https://github.com/rashedabbassi-cloud/Navigator)** was built at an Anthropic hackathon. It helps blind users manage their healthcare through an agentic workflow that places phone calls, summarizes emails and action items, and can act on instructions.
 
